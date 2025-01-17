@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://gogeta-ssj4.github.io/blog/sitemap.xml
+Sitemap: https://blog.bantz.art/sitemap.xml
