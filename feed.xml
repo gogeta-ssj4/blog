@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>📢 ̖́- 𝘽𝘼𝙉𝙏𝙕&#x27; Blog</title>
+    <title>📢 ̖́- BANTZ&#x27; Blog</title>
     <link href="https://blog.bantz.art/feed.xml" rel="self" />
     <link href="https://blog.bantz.art" />
-    <updated>2025-02-01T19:00:35-07:00</updated>
+    <updated>2025-02-01T19:14:59-07:00</updated>
     <author>
         <name>Bantz</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="Bantz Bytez"/>
 
         <updated>2025-02-01T13:15:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://blog.bantz.art/media/posts/12/Kirby-MAGfest-Badge.jpg" alt="A sleepy Kirby plushie with a lanyard around its body that&#x27;s holding a MAGfest Attendee badge, #6999, with a ribbon that says &quot;Who&#x27;s up gaying up they lord?&quot;" />
                     Felt like the week passed by in a day. Spend the last days going to the arcades n' browsing the marketplace a little. Sylph n'&hellip;
@@ -51,7 +51,7 @@
 <figure class="gallery__item"><a href="https://blog.bantz.art/media/posts/12/gallery/merch_1.jpg" data-size="1280x960"><img loading="lazy" src="https://blog.bantz.art/media/posts/12/gallery/merch_1-thumbnail.jpg" alt="Various enamel pins, acrylic charms, keychain, and a crochet plushie." width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://blog.bantz.art/media/posts/12/gallery/merch_2.jpg" data-size="1280x960"><img loading="lazy" src="https://blog.bantz.art/media/posts/12/gallery/merch_2-thumbnail.jpg" alt="Stickers of various characters from anime, video games, and a original character." width="768" height="576"></a></figure>
 </div></div>
-<p>Not all pictured above was bought. Syl gave me a decent amount of the stuff here. Y'all should really <a href="https://www.etsy.com/shop/SylphyCo" target="_blank" rel="noopener noreferrer">check out her shop</a>! Can't thank her enough for all the cute/funny stuff she gave me. Anyway, going over what I bought myself.</p>
+<p>Not all pictured above was bought. Syl gave me a decent amount of the stuff here. Y'all should really <a href="https://www.etsy.com/shop/SylphyCo" target="_blank" rel="noopener noreferrer">check out her shop</a>! Can't thank her enough for all the cute/funny stuff they gave me. Anyway, going over what I bought myself.</p>
 <p class="align-center">First up is this Clickily keychain I got from <a href="https://www.etsy.com/shop/RoseGoldJelly" target="_blank" rel="noopener noreferrer">Rose Gold Jelly!</a></p>
 <div class="align-center" style="display: flex; justify-content: center; text-align: center; margin: 1.2em;"><video loading="lazy" width="320" height="320" controls="controls" controlslist="nodownload" src="https://blog.bantz.art/media/files/Clickly-Kirby.mp4" type="video/mp4">Your browser does not support the video tag.</video></div>
 <p class="align-center" style="font-size: 0.8em; text-align: center; margin-top: -0.6em;">CW: flashing lights</p>
@@ -100,7 +100,7 @@
             <category term="Bantz Bytez"/>
 
         <updated>2025-01-25T07:59:15-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://blog.bantz.art/media/posts/11/bottom-floor-shot.jpg" alt="" />
                     Fuckin over slept LMAO. I usually do when it's the weekend. Oh well, manged to get a ride to the Gaylord. Oh... wait... I forgot&hellip;
@@ -136,7 +136,7 @@
             <category term="Bantz Bytez"/>
 
         <updated>2025-01-24T00:21:29-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://blog.bantz.art/media/posts/10/morning-food.jpg" alt="Photo of a Dr. Pepper and a small personal pizza." />
                     Started the day a little into the morning. Naotox n' Foxcade had their own thing they needed to do, so it was just me n&hellip;
@@ -179,7 +179,7 @@
             <category term="Bantz Bytez"/>
 
         <updated>2025-01-22T20:27:00-07:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://blog.bantz.art/media/posts/9/backing-2.jpg" alt="Photo of luggage case open, filled with clothes, and a backpack on a bed with a Kirby plush in the background sleeping." />
                     Started the morning with packin' up all that I needed/wanted. Had a hell of a time too. Stuffin' all I need in onto a carry-on&hellip;
@@ -216,7 +216,7 @@
             <category term="Bantz Bytez"/>
 
         <updated>2022-10-29T17:04:00-06:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://blog.bantz.art/media/posts/7/ANN.jpg" alt="" />
                     <p><sub>(Keep in mind these thoughts on the game are based on my experience after completing it back in October of 2022.)</sub></p>
